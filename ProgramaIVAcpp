@@ -13,5 +13,4 @@ int main()
 
     if (total > 1000) cout << "Aplica para envio gratis." << endl;
 	return 0; 
-}
-//Sebastian Acosta Ortiz
+
