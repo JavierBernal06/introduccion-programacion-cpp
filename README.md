@@ -23,4 +23,3 @@ El programa solicita al usuario el precio unitario de un producto y la cantidad 
 
 
 
-imagen_2026-10-08_202318851
